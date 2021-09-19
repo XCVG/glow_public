@@ -1,0 +1,76 @@
+# General
+
+Unity Technologies - Post Processing Stack v2
+
+Refer to the Documentation folder for upstream credits and full license texts.
+
+# Textures
+
+athile - Seamless Grass Textures (20 pack)
+	https://opengameart.org/content/seamless-grass-textures-20-pack
+	CC0/Public Domain
+
+para - real asphalt texture pack
+	https://opengameart.org/content/real-asphalt-texture-pack
+	CC0/Public Domain
+
+# Models
+
+Kenney - City Kit (Commercial)
+	https://opengameart.org/content/city-kit-commercial
+	CC0/Public Domain
+
+Kenney - City Kit (Suburban)
+	https://opengameart.org/content/city-kit-suburban
+	CC0/Public Domain
+
+Kenney - Space Kit (remade)
+	https://opengameart.org/content/space-kit-remade
+	CC0/Public Domain
+
+Kenney - City Kit (roads)
+	https://opengameart.org/content/city-kit-roads
+	CC0/Public Domain
+
+# Sounds
+
+Iridiuss - Energy/magic shot
+	https://freesound.org/people/Iridiuss/sounds/519414/
+	CC0/Public Domain
+
+Little Robot Sound Factory - Fantasy Sound Effects Library
+	https://opengameart.org/content/fantasy-sound-effects-library
+	CC-BY 3.0
+	www.littlerobotsoundfactory.com
+
+qubodup (Iwan Gabovitch) - Impact
+	https://opengameart.org/content/impact
+	CC0/Public Domain
+	Impact by Iwan 'qubodup' Gabovitch http://opengameart.org/users/qubodup
+
+Independent.nu - 35 wooden cracks/hits/destructions
+	https://opengameart.org/content/35-wooden-crackshitsdestructions
+	CC0/Public Domain
+
+# Music
+
+SubspaceAudio (Juhani Junkala) - 5 Chiptunes (Action)
+	https://opengameart.org/content/5-chiptunes-action
+	CC0/Public Domain
+
+SubspaceAudio (Juhani Junkala) - 4 Chiptunes (Adventure)
+	https://opengameart.org/content/4-chiptunes-adventure
+	CC0/Public Domain
+
+# Miscellaneous
+
+domdomegg - Various glowsticks on a black background in rings.JPG
+	https://commons.wikimedia.org/wiki/File:Various_glowsticks_on_a_black_background_in_rings.JPG
+	CC-BY 4.0
+
+Cobo Antonio - DevConsole 2
+	https://assetstore.unity.com/packages/tools/gui/devconsole-2-16833
+
+Craig Rozynski, Hrant Papazian - Comic Neue
+	https://fonts.google.com/specimen/Comic+Neue
+	Open Font License

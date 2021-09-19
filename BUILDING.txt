@@ -1,0 +1,4 @@
+This relies on DevConsole 2 by Cobo Antonio, an asset from the Unity Asset Store which cannot be included in the repository for licensing reasons. In order to build, you can either:
+
+-Download the dependency from (https://assetstore.unity.com/packages/tools/gui/devconsole-2-16833), the default location is fine.
+-Delete Assets/CommonCoreModules/SickDevConsoleIntegration. The build errors will clear and the framework will fall back on a builtin implementation.
